@@ -19,7 +19,7 @@ sheet = spreadsheet.sheet1
 
 # Token de autenticación de la API de Slack
 # SLACK_TOKEN = os.environ.get("SLACK_TOKEN")
-SLACK_TOKEN = 'xoxb-5310427832679-5322047644949-vSEXJBr7iIPJgqG2AypFx4zQ'
+SLACK_TOKEN = 'xoxb-5310427832679-5322047644949-KgXKmcPvXQcbQMl7Ep8bhi4d'
 
 
 def read_messages(channel_id):
