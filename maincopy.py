@@ -14,7 +14,7 @@ app.config['SECRET_KEY'] = 'boteros123456789'  # Reemplaza con tu clave secreta 
 socketio = SocketIO(app)
 
 # Configuración de Slack
-SLACK_TOKEN = 'xoxb-5310427832679-5322047644949-tnHDiuF2kpjzNSgpURbKUPA3'  # Reemplaza con tu token de Slack
+SLACK_TOKEN = ''  # Reemplaza con tu token de Slack
 
 # Configuración de Google Sheets
 credentials = service_account.Credentials.from_service_account_file('credentials.json', scopes=['https://www.googleapis.com/auth/spreadsheets'])
