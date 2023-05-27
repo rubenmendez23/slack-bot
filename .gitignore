@@ -2,3 +2,4 @@ credentials.json
 .env
 copia.py
 app.log
+maincopy.py
